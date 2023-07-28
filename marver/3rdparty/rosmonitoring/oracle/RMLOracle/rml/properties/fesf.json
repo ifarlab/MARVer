@@ -1,0 +1,12 @@
+{
+    "properties": [
+        {
+            "name": "se",
+            "description": "fe",
+            "formula": "sfef",
+            "nodeNames": [
+                "deneme2"
+            ]
+        }
+    ]
+}

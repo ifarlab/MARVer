@@ -1,0 +1,12 @@
+{
+    "properties": [
+        {
+            "name": "gasf",
+            "description": "asdafsgag",
+            "formula": "{adRVComparision_adResult:1} && {adRVComparision_attackState:1} || {adRVComparision_adResult:0} && {adRVComparision_attackState:0}",
+            "nodeNames": [
+                "anomalyDetectionRV"
+            ]
+        }
+    ]
+}

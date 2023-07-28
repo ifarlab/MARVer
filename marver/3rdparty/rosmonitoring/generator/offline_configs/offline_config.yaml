@@ -1,0 +1,36 @@
+# MIT License
+#
+# Copyright (c) [2019] [Angelo Ferrando]
+#
+# Permission is hereby granted, free of charge, to any person obtaining a copy
+# of this software and associated documentation files (the "Software"), to deal
+# in the Software without restriction, including without limitation the rights
+# to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+# copies of the Software, and to permit persons to whom the Software is
+# furnished to do so, subject to the following conditions:
+#
+# The above copyright notice and this permission notice shall be included in all
+# copies or substantial portions of the Software.
+#
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+# IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+# FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+# AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+# LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+# OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+# SOFTWARE.
+
+# Config file for the instrumentation of ROS
+# this file is given in input to generator
+#
+
+
+monitors: # here we list the monitors we are going to generate
+  - monitor:
+      id: monitor_offline
+      log: /home/zekeriyya/Dowloads/rosMonitoring/oracle/offline_log.txt # file where the monitor will log the observed events
+      silent: False # we let the monitor to print info during its execution
+      topics: # the list of topics this monitor is going to intercept (only one here)
+        - name: r1_state # name of the topic
+          type: webots_ros.msg.States # type of the topic
+          action: log # the monitor will log the messages exchanged on this topic		

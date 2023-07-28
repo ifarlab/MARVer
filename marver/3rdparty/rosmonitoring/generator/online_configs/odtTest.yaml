@@ -1,0 +1,25 @@
+#CREATED FILE
+
+nodes:
+  - node:
+      name: odt
+      package: odt
+      path: /home/esogu-ifarlab/catkin_ws/src/odt/run.launch
+
+
+monitors:
+  - monitor:
+      id: mon_odt
+      log: /home/esogu-ifarlab/catkin_ws/src/online_log_odt.txt
+      silent: False
+      warning: 1
+      oracle:
+        port: 5561
+        url: 127.0.0.1
+        action: nothing
+      topics:
+        - name: /odt
+          type: odt.msg.minDistance
+          action: log
+          publishers:
+            - odt

@@ -1,0 +1,25 @@
+#CREATED FILE
+
+nodes:
+  - node:
+      name: oma
+      package: oma_msgs
+      path: /home/esogu-ifarlab/catkin_ws/src/oma_msgs/run.launch
+
+
+monitors:
+  - monitor:
+      id: mon_oma
+      log: /home/esogu-ifarlab/Desktop/oma_log.txt
+      silent: False
+      warning: 1
+      oracle:
+        port: 1513
+        url: 127.0.0.1
+        action: nothing
+      topics:
+        - name: oma
+          type: oma_msgs.msg.oma
+          action: log
+          publishers:
+            - oma

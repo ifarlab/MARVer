@@ -1,0 +1,12 @@
+{
+    "properties": [
+        {
+            "name": "oht",
+            "description": "oht",
+            "formula": "{oht_data > 1}",
+            "nodeNames": [
+                "oht"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "properties": [
+        {
+            "name": "min_distance",
+            "description": "min_distance",
+            "formula": "{odt_minDistance > 0.05}",
+            "nodeNames": [
+                "odt"
+            ]
+        }
+    ]
+}

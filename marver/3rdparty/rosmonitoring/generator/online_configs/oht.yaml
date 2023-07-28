@@ -1,0 +1,25 @@
+#CREATED FILE
+
+nodes:
+  - node:
+      name: oht
+      package: oht
+      path: /home/esogu-ifarlab/catkin_ws/src/oht/run.launch
+
+
+monitors:
+  - monitor:
+      id: mon_oht
+      log: /home/esogu-ifarlab/catkin_ws/src/oht/oht_log.txt
+      silent: False
+      warning: 1
+      oracle:
+        port: 1540
+        url: 127.0.0.1
+        action: nothing
+      topics:
+        - name: /oht
+          type: std_msgs.msg.Float32
+          action: log
+          publishers:
+            - oht

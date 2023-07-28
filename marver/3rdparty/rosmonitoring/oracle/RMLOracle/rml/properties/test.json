@@ -1,0 +1,12 @@
+{
+    "properties": [
+        {
+            "name": "ad",
+            "description": "sd",
+            "formula": "sds",
+            "nodeNames": [
+                "deneme2"
+            ]
+        }
+    ]
+}

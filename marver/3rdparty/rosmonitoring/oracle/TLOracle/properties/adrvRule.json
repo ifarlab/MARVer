@@ -1,0 +1,12 @@
+{
+    "properties": [
+        {
+            "name": "adrvRule",
+            "description": "Rules for Anomaly Detection's Runtime Verification.",
+            "formula": "{adrv_adResult:1, adrv_attackState:1} or {adrv_adResult:0, adrv_attackState:0}",
+            "nodeNames": [
+                "adrv"
+            ]
+        }
+    ]
+}

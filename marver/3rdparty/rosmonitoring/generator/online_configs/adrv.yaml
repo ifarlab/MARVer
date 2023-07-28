@@ -1,0 +1,26 @@
+#CREATED FILE
+
+nodes:
+  - node:
+      name: adrv
+      package: adservice
+      path: /home/esogu-ifarlab/catkin_ws/src/adservice/launch/run.launch
+
+
+monitors:
+  - monitor:
+      id: mon_adrv
+      log: /home/esogu-ifarlab/catkin_ws/src/log.txt
+      silent: False
+      warning: 1
+      oracle:
+        port: 1259
+        url: 127.0.0.1
+        action: nothing
+      topics:
+        - name: adrv
+          type: adservice.msg.adrv
+          action: log
+          publishers:
+            - adrv
+ 
