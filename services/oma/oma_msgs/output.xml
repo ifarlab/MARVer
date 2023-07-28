@@ -1,0 +1,7 @@
+<parameters>
+ <value>30</value>
+ <joint>6</joint>
+ <des_pac_div>30</des_pac_div>
+ <hz>30</hz>
+ <topic>oma</topic>
+</parameters>

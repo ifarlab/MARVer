@@ -1,0 +1,25 @@
+
+float64 posCam1 
+float64 posCam2 
+float64 posX
+float64 posY1
+float64 posY2
+float64 posZ
+float64 velCam1
+float64 velCam2
+float64 velX
+float64 velY1
+float64 velY2
+float64 velZ
+float64 accCam1
+float64 accCam2
+float64 accX
+float64 accY1
+float64 accY2
+float64 accZ
+float64 jCam1
+float64 jCam2
+float64 jX
+float64 jY1
+float64 jY2
+float64 jZ
