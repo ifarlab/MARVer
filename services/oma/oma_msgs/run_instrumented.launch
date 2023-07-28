@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="oma_msgs" type="oma.py" name="oma" output="screen"><remap from="oma" to="oma_mon" /></node>
+</launch>
