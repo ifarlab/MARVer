@@ -1,0 +1,139 @@
+url :  git clone https://github.com/autonomy-and-verification-uol/ROSMonitoring.git
+
+
+### Offline ROSMonitoring 
+
+
+
+# launch.file =>>
+
+<launch>
+    <node pkg="beginner_tutorials" type="talker.py" name="talker" output="screen"/>
+    <node pkg="beginner_tutorials" type="listener.py" name="listener" output="screen"/>
+</launch>
+
+
+# offline_config
+
+nodes: # here we list the nodes we are going to monitor
+  - node:
+      name: talker
+      package: beginner_tutorials
+      path: ~/catkin_ws/src/beginner_tutorials/run.launch
+  - node:
+      name: listener
+      package: beginner_tutorials
+      path: ~/catkin_ws/src/beginner_tutorials/run.launch
+
+monitors: # here we list the monitors we are going to generate
+  - monitor:
+      id: monitor_0
+      log: ./log.txt # file where the monitor will log the observed events
+      silent: False # we let the monitor to print info during its execution
+      topics: # the list of topics this monitor is going to intercept (only one here)
+        - name: chatter # name of the topic
+          type: std_msgs.msg.String # type of the topic
+          action: log # the monitor will log the messages exchanged on this topic
+
+
+
+# generator :: create monitor_0py
+
+$ cd ~/ROSMonitoring/generator/
+$ chmod +x generator
+$ ./generator --config_file offline_config.yaml
+ 
+ 
+ 
+# monitor :: log topics
+
+$ cd ~/catkin_ws/
+$ chmod +x src/monitor/src/monitor_0.py
+$ roslaunch src/monitor/run.launch
+
+
+# run listener and talker nodes
+ 
+$ cd ~/catkin_ws/
+$ roslaunch src/beginner_tutorials/run_instrumented.launch
+ 
+ 
+ 
+# RV :: test log file againts specifications
+
+$ cp ~/catkin_ws/log.txt ~/ROSMonitoring/oracle/
+$ cd ~/ROSMonitoring/oracle/RMLOracle/prolog/
+$ sh offline_monitor.sh ../rml/test.pl ../../log.txt
+
+
+#  convert rml to pl
+
+$ cd ~/ROSMonitoring/oracle/RMLOracle/rml/
+$ java -jar rml-compiler.jar --input test.rml --output test.pl
+
+
+# alternatively, check log file againt specification that specified python
+
+$ cd ~/ROSMonitoring/oracle/TLOracle/
+$ ./oracle.py --offline --property property --trace ../log.txt --discrete
+ 
+ 
+ hello matches {topic:'chatter', data:'hello'};
+ 
+ 
+ 
+ #####################  Webots Offline ###############
+
+ ++ logging process 
+ 
+$ roslaunch monitor run_offline.launch
+$ roslaunch webots_ros ure.launch
+ 
+ ++ verifying process
+
+$ cd ~/ROSMonitoring/oracle/RMLOracle/prolog/ 
+$ sh offline_monitor.sh ../rml/test.pl ../../offline_log.txt 
+
+$ cd ~/ROSMonitoring/oracle/TLOracle/
+$ ./oracle.py --offline --property property --trace ../offline_log.txt --discrete
+ 
+ 
+ 
+ 
+ 
+#####################  Webots Online ###############
+ 
+
+ 
+$ sh online_monitor.sh ../rml/test.pl 3333
+$ roslaunch monitor run_online.launch 
+$ roslaunch webots_ros ure.launch
+$ rosrun beginner_tutorials talker.py 
+$ roslaunch beginner_tutorials run_instrumented.launch
+ 
+ 
+$ ./oracle.py --online --property property --port 3333 --discrete
+$ ./oracle.py --online --property zekeriyya_demo --port 3333 --discrete
+$ roslaunch monitor run_online.launch 
+$ roslaunch webots_ros ure.launch
+$ rosrun beginner_tutorials talker.py 
+$ roslaunch beginner_tutorials run_instrumented.launch
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

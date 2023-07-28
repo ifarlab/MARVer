@@ -1,0 +1,7 @@
+Start
+Normal 1
+Attack 2
+Normal 1
+Attack 2
+Normal 1
+End

@@ -1,0 +1,36 @@
+<robot brand="otokar" model="rokos" root_frame_name="world">
+	<cylinders>
+		<cylinder id="0" name="cylinder_0" radius="0.295"  height="2.1" >
+			<robot_frame id="0" name="linear_z_link" rotation="0 0 0" translation="0 0 2.13" />
+		</cylinder>
+		<cylinder id="1" name="cylinder_1" radius="0.0825"  height="0.7525">
+			<robot_frame id="1" name="linear_z_actuator" rotation="1.5708 0 0" translation="-0.25 0.239 -0.14" />
+		</cylinder>
+		<cylinder id="2" name="cylinder_2" radius="0.1725"  height="0.75">
+			<robot_frame id="2" name="linear_y1_actuator" rotation="1.5708 0 0" translation="0 -0.1648 0" />
+		</cylinder>
+		<cylinder id="3" name="cylinder_3" radius="0.1425"  height="0.83" >
+			<robot_frame id="3" name="linear_y2_actuator" rotation="1.5708 0 0" translation="0 -0.0465 0" />
+		</cylinder>
+		<cylinder id="4" name="cylinder_4" radius="0.134"  height="0.171">
+			<robot_frame id="4" name="cam1_actuator" rotation="1.5708 0 0" translation="0 -0.0473 0" />
+		</cylinder>
+		<cylinder id="5" name="cylinder_5" radius="0.13"  height="0.0475">
+			<robot_frame id="5" name="cam2_actuator" rotation="0 1.5708 0" translation="0.063 0.184 0.07" />
+		</cylinder>
+	</cylinders>
+</robot>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

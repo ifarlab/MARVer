@@ -1,0 +1,7 @@
+Start
+Idle 1
+NodeSwarm 2
+Idle 1
+DoS 2
+Idle 1
+Stop

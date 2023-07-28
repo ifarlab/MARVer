@@ -1,0 +1,1 @@
+Please make attention that before using files included in bin folder, you ensure that all setups are provided in requirements.txt in MARVer folder.

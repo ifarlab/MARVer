@@ -1,0 +1,13 @@
+Start
+Normal 3
+Attack 1
+Normal 1
+Attack 1
+Normal 1
+Attack 3
+Normal 2
+Attack 5
+Normal 2
+Attack 10
+Normal 2
+End
