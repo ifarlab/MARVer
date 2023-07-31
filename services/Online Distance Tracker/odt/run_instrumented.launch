@@ -1,0 +1,5 @@
+<launch>
+        
+<node pkg="odt" type="odt" name="odt" output="screen"><remap from="/odt" to="/odt_mon" /></node>
+            
+</launch>
