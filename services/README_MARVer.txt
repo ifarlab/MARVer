@@ -7,7 +7,7 @@ Dependencies:
 	- PyQt5 qt designer
 	- Requires Srvt or mini Srvt.
 
-	- Note: Make sure you have installed Ubuntu 20.04 Noetic version,  ROS and ROSMonitoring.
+	- Note: Make sure you have installed Ubuntu 20.04, ROS Noetic and ROSMonitoring.
 
 
 
