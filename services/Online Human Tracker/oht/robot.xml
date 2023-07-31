@@ -1,0 +1,16 @@
+<robot brand="ifarlab" model="lab" root_frame_name="odom">
+	<cylinders>
+		<cylinder id="0" name="cylinder_0" radius="0.165"  height="0.08" >
+			<robot_frame id="0" name="link1" rotation="-1.0471975512 0 0" translation="0 0 -0.06" />	
+		</cylinder>
+		<cylinder id="1" name="cylinder_1" radius="0.155"  height="0.34">
+			<robot_frame id="1" name="link2" rotation="0 1.57079632679 0" translation="0 0 0" />
+		</cylinder>
+		<cylinder id="2" name="cylinder_2" radius="0.100"  height="0.365">
+			<robot_frame id="2" name="link4" rotation="0 0 1.57079632679" translation="0 0 -0.03" />
+		</cylinder>
+		<cylinder id="3" name="cylinder_3" radius="0.10"  height="0.3">
+			<robot_frame id="3" name="link5" rotation="0 1.57079632679 0" translation="0 0 0" />
+		</cylinder>
+	</cylinders>
+</robot>
