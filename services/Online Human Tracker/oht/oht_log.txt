@@ -1,0 +1,732 @@
+{"topic": "/oht", "time": 10846.27, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10846.289, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10846.337, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10846.405, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10846.473, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10846.538, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10846.604, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10846.672, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10846.737, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10846.805, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10846.87, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10846.938, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10847.004, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10847.073, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10847.138, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10847.204, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10847.271, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10847.338, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10847.404, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10847.471, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10847.541, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10847.604, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10847.672, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10847.737, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10847.804, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10847.872, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10847.938, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10848.004, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10848.071, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10848.137, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10848.204, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10848.272, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10848.338, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10848.404, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10848.471, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10848.544, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10848.604, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10848.671, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10848.737, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10848.804, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10848.872, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10848.939, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10849.005, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10849.072, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10849.137, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10849.205, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10849.271, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10849.338, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10849.404, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10849.471, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10849.544, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10849.605, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10849.672, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10849.738, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10849.804, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10849.871, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10849.94, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10850.003, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10850.071, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10850.144, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10850.204, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10850.272, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10850.339, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10850.404, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10850.472, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10850.537, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10850.604, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10850.671, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10850.738, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10850.805, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10850.871, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10850.938, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10851.004, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10851.072, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10851.138, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10851.204, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10851.271, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10851.337, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10851.404, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10851.471, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10851.539, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10851.605, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10851.671, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10851.737, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10851.804, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10851.872, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10851.937, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10852.005, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10852.071, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10852.137, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10852.204, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10852.271, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10852.337, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10852.404, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10852.471, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10852.537, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10852.605, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10852.672, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10852.738, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10852.804, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10852.872, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10852.937, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10853.005, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10853.072, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10853.137, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10853.205, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10853.271, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10853.337, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10853.404, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10853.471, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10853.537, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10853.604, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10853.672, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10853.737, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10853.805, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10853.872, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10853.937, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10854.004, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10854.072, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10854.137, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10854.204, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10854.271, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10854.341, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10854.404, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10854.472, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10854.537, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10854.605, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10854.672, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10854.737, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10854.805, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10854.871, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10854.937, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10855.005, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10855.072, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10855.137, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10855.204, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10855.272, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10855.337, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10855.404, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10855.472, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10855.542, "oht_data": Infinity, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10855.607, "oht_data": 2.747999906539917, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10855.671, "oht_data": 2.805999994277954, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10855.739, "oht_data": 2.7960000038146973, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10855.805, "oht_data": 2.8450000286102295, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10855.872, "oht_data": 2.9110000133514404, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10855.937, "oht_data": 2.921999931335449, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10856.013, "oht_data": 2.9570000171661377, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10856.071, "oht_data": 2.9560000896453857, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10856.138, "oht_data": 2.9730000495910645, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10856.205, "oht_data": 2.9860000610351562, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10856.272, "oht_data": 2.990999937057495, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10856.337, "oht_data": 2.99399995803833, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10856.405, "oht_data": 3.0390000343322754, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10856.472, "oht_data": 3.0439999103546143, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10856.538, "oht_data": 2.9679999351501465, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10856.607, "oht_data": 2.9089999198913574, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10856.672, "oht_data": 2.9709999561309814, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10856.737, "oht_data": 2.8450000286102295, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10856.804, "oht_data": 2.9790000915527344, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10856.872, "oht_data": 2.9059998989105225, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10856.937, "oht_data": 2.9130001068115234, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10857.004, "oht_data": 2.8919999599456787, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10857.072, "oht_data": 2.8919999599456787, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10857.138, "oht_data": 2.8910000324249268, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10857.206, "oht_data": 2.882999897003174, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10857.274, "oht_data": 2.8610000610351562, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10857.337, "oht_data": 2.8980000019073486, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10857.405, "oht_data": 2.865000009536743, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10857.471, "oht_data": 2.878999948501587, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10857.538, "oht_data": 2.8949999809265137, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10857.605, "oht_data": 2.8329999446868896, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10857.672, "oht_data": 2.944000005722046, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10857.737, "oht_data": 2.9159998893737793, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10857.806, "oht_data": 2.8269999027252197, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10857.872, "oht_data": 2.7809998989105225, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10857.938, "oht_data": 2.7820000648498535, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10858.004, "oht_data": 2.756999969482422, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10858.072, "oht_data": 2.7139999866485596, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10858.137, "oht_data": 2.7100000381469727, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10858.205, "oht_data": 2.7049999237060547, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10858.272, "oht_data": 2.755000114440918, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10858.337, "oht_data": 2.6459999084472656, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10858.405, "oht_data": 2.6649999618530273, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10858.472, "oht_data": 2.6059999465942383, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10858.538, "oht_data": 2.5810000896453857, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10858.605, "oht_data": 2.5339999198913574, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10858.673, "oht_data": 2.507999897003174, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10858.738, "oht_data": 2.4800000190734863, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10858.804, "oht_data": 2.437999963760376, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10858.872, "oht_data": 2.428999900817871, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10858.938, "oht_data": 2.3369998931884766, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10859.005, "oht_data": 2.309999942779541, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10859.071, "oht_data": 2.299999952316284, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10859.138, "oht_data": 2.2660000324249268, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10859.205, "oht_data": 2.2149999141693115, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10859.271, "oht_data": 2.1570000648498535, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10859.337, "oht_data": 2.13700008392334, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10859.404, "oht_data": 2.132999897003174, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10859.473, "oht_data": 2.1050000190734863, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10859.537, "oht_data": 2.1010000705718994, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10859.604, "oht_data": 2.0420000553131104, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10859.672, "oht_data": 2.010999917984009, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10859.737, "oht_data": 2.000999927520752, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10859.805, "oht_data": 1.9830000400543213, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10859.873, "oht_data": 1.9609999656677246, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10859.937, "oht_data": 1.9529999494552612, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10860.005, "oht_data": 1.8980000019073486, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10860.071, "oht_data": 1.88100004196167, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10860.137, "oht_data": 1.8600000143051147, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10860.204, "oht_data": 1.8450000286102295, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10860.271, "oht_data": 1.8350000381469727, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10860.337, "oht_data": 1.8240000009536743, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10860.404, "oht_data": 1.8200000524520874, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10860.471, "oht_data": 1.8140000104904175, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10860.538, "oht_data": 1.8009999990463257, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10860.604, "oht_data": 1.7899999618530273, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10860.672, "oht_data": 1.7660000324249268, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10860.738, "oht_data": 1.7350000143051147, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10860.806, "oht_data": 1.7319999933242798, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10860.872, "oht_data": 1.7100000381469727, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10860.938, "oht_data": 1.6859999895095825, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10861.005, "oht_data": 1.6390000581741333, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10861.071, "oht_data": 1.6030000448226929, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10861.138, "oht_data": 1.569000005722046, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10861.205, "oht_data": 1.5449999570846558, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10861.271, "oht_data": 1.5099999904632568, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10861.337, "oht_data": 1.4700000286102295, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10861.405, "oht_data": 1.4320000410079956, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10861.472, "oht_data": 1.4110000133514404, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10861.537, "oht_data": 1.3660000562667847, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10861.604, "oht_data": 1.350000023841858, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10861.672, "oht_data": 1.3270000219345093, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10861.738, "oht_data": 1.315000057220459, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10861.805, "oht_data": 1.3140000104904175, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10861.871, "oht_data": 1.2920000553131104, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10861.937, "oht_data": 1.2719999551773071, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10862.004, "oht_data": 1.2519999742507935, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10862.071, "oht_data": 1.2359999418258667, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10862.138, "oht_data": 1.218999981880188, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10862.205, "oht_data": 1.1979999542236328, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10862.272, "oht_data": 1.1699999570846558, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10862.337, "oht_data": 1.1510000228881836, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10862.405, "oht_data": 1.1440000534057617, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10862.472, "oht_data": 1.1380000114440918, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10862.538, "oht_data": 1.13100004196167, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10862.606, "oht_data": 1.13100004196167, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10862.671, "oht_data": 1.11899995803833, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10862.738, "oht_data": 1.0920000076293945, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10862.804, "oht_data": 1.062999963760376, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10862.871, "oht_data": 1.0360000133514404, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10862.937, "oht_data": 1.0099999904632568, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10863.005, "oht_data": 1.00600004196167, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10863.071, "oht_data": 0.9779999852180481, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10863.139, "oht_data": 0.9480000138282776, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10863.205, "oht_data": 0.921999990940094, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10863.273, "oht_data": 0.878000020980835, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10863.337, "oht_data": 0.8450000286102295, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10863.406, "oht_data": 0.8180000185966492, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10863.472, "oht_data": 0.7960000038146973, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10863.538, "oht_data": 0.7730000019073486, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10863.605, "oht_data": 0.7609999775886536, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10863.671, "oht_data": 0.7549999952316284, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10863.737, "oht_data": 0.7509999871253967, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10863.805, "oht_data": 0.7540000081062317, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10863.873, "oht_data": 0.7540000081062317, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10863.938, "oht_data": 0.7549999952316284, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10864.005, "oht_data": 0.7509999871253967, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10864.071, "oht_data": 0.753000020980835, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10864.137, "oht_data": 0.7549999952316284, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10864.205, "oht_data": 0.753000020980835, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10864.271, "oht_data": 0.7490000128746033, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10864.337, "oht_data": 0.7409999966621399, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10864.404, "oht_data": 0.7400000095367432, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10864.471, "oht_data": 0.7390000224113464, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10864.537, "oht_data": 0.7350000143051147, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10864.604, "oht_data": 0.7319999933242798, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10864.672, "oht_data": 0.7260000109672546, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10864.738, "oht_data": 0.7200000286102295, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10864.805, "oht_data": 0.7179999947547913, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10864.872, "oht_data": 0.7110000252723694, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10864.938, "oht_data": 0.7099999785423279, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10865.006, "oht_data": 0.7120000123977661, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10865.07, "oht_data": 0.7120000123977661, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10865.138, "oht_data": 0.7170000076293945, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10865.205, "oht_data": 0.7450000047683716, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10865.272, "oht_data": 0.7879999876022339, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10865.338, "oht_data": 0.8309999704360962, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10865.405, "oht_data": 0.8930000066757202, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10865.472, "oht_data": 0.9369999766349792, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10865.538, "oht_data": 0.9890000224113464, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10865.605, "oht_data": 1.0390000343322754, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10865.672, "oht_data": 1.0759999752044678, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10865.738, "oht_data": 1.1180000305175781, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10865.805, "oht_data": 1.1519999504089355, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10865.872, "oht_data": 1.1699999570846558, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10865.937, "oht_data": 1.184999942779541, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10866.004, "oht_data": 1.2070000171661377, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10866.072, "oht_data": 1.2289999723434448, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10866.138, "oht_data": 1.2380000352859497, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10866.205, "oht_data": 1.2400000095367432, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10866.272, "oht_data": 1.2489999532699585, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10866.337, "oht_data": 1.2569999694824219, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10866.405, "oht_data": 1.2680000066757202, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10866.472, "oht_data": 1.2699999809265137, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10866.54, "oht_data": 1.2710000276565552, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10866.605, "oht_data": 1.2690000534057617, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10866.676, "oht_data": 1.2640000581741333, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10866.737, "oht_data": 1.2619999647140503, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10866.805, "oht_data": 1.2610000371932983, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10866.872, "oht_data": 1.2599999904632568, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10866.937, "oht_data": 1.2569999694824219, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10867.005, "oht_data": 1.2519999742507935, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10867.071, "oht_data": 1.2369999885559082, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10867.137, "oht_data": 1.218999981880188, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10867.204, "oht_data": 1.1950000524520874, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10867.272, "oht_data": 1.1770000457763672, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10867.339, "oht_data": 1.1540000438690186, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10867.405, "oht_data": 1.128999948501587, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10867.471, "oht_data": 1.1019999980926514, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10867.538, "oht_data": 1.0700000524520874, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10867.604, "oht_data": 1.0379999876022339, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10867.671, "oht_data": 0.9929999709129333, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10867.738, "oht_data": 0.9559999704360962, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10867.805, "oht_data": 0.9110000133514404, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10867.872, "oht_data": 0.871999979019165, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10867.938, "oht_data": 0.8389999866485596, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10868.003, "oht_data": 0.8040000200271606, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10868.073, "oht_data": 0.7829999923706055, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10868.138, "oht_data": 0.7490000128746033, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10868.205, "oht_data": 0.7289999723434448, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10868.272, "oht_data": 0.7170000076293945, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10868.338, "oht_data": 0.7070000171661377, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10868.404, "oht_data": 0.7009999752044678, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10868.472, "oht_data": 0.6970000267028809, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10868.537, "oht_data": 0.6949999928474426, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10868.605, "oht_data": 0.6949999928474426, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10868.677, "oht_data": 0.6930000185966492, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10868.738, "oht_data": 0.6959999799728394, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10868.804, "oht_data": 0.7049999833106995, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10868.873, "oht_data": 0.7300000190734863, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10868.938, "oht_data": 0.753000020980835, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10869.005, "oht_data": 0.7829999923706055, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10869.072, "oht_data": 0.8069999814033508, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10869.138, "oht_data": 0.8299999833106995, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10869.205, "oht_data": 0.8759999871253967, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10869.273, "oht_data": 0.8830000162124634, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10869.338, "oht_data": 0.9179999828338623, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10869.405, "oht_data": 0.9380000233650208, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10869.472, "oht_data": 0.968999981880188, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10869.537, "oht_data": 1.0440000295639038, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10869.604, "oht_data": 1.0989999771118164, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10869.671, "oht_data": 1.13100004196167, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10869.737, "oht_data": 1.0980000495910645, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10869.805, "oht_data": 1.1080000400543213, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10869.872, "oht_data": 1.1169999837875366, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10869.945, "oht_data": 1.1380000114440918, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10870.004, "oht_data": 1.1510000228881836, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10870.071, "oht_data": 1.1690000295639038, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10870.138, "oht_data": 1.1859999895095825, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10870.204, "oht_data": 1.190000057220459, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10870.271, "oht_data": 1.1619999408721924, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10870.341, "oht_data": 1.1629999876022339, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10870.406, "oht_data": 1.159999966621399, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10870.471, "oht_data": 1.1419999599456787, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10870.539, "oht_data": 1.121000051498413, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10870.605, "oht_data": 1.1080000400543213, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10870.671, "oht_data": 1.0920000076293945, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10870.738, "oht_data": 1.0980000495910645, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10870.804, "oht_data": 1.0870000123977661, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10870.872, "oht_data": 1.0390000343322754, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10870.94, "oht_data": 0.9959999918937683, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10871.01, "oht_data": 0.953000009059906, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10871.071, "oht_data": 0.9139999747276306, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10871.138, "oht_data": 0.859000027179718, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10871.209, "oht_data": 0.8080000281333923, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10871.272, "oht_data": 0.7699999809265137, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10871.337, "oht_data": 0.7179999947547913, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10871.411, "oht_data": 0.6669999957084656, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10871.472, "oht_data": 0.6290000081062317, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10871.54, "oht_data": 0.5989999771118164, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10871.605, "oht_data": 0.5770000219345093, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10871.672, "oht_data": 0.5690000057220459, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10871.737, "oht_data": 0.5580000281333923, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10871.804, "oht_data": 0.5580000281333923, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10871.872, "oht_data": 0.5659999847412109, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10871.937, "oht_data": 0.6100000143051147, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10872.004, "oht_data": 0.6690000295639038, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10872.072, "oht_data": 0.7739999890327454, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10872.137, "oht_data": 0.7879999876022339, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10872.204, "oht_data": 0.8450000286102295, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10872.273, "oht_data": 0.8939999938011169, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10872.337, "oht_data": 0.9359999895095825, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10872.404, "oht_data": 0.9739999771118164, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10872.471, "oht_data": 1.00600004196167, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10872.537, "oht_data": 1.059000015258789, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10872.604, "oht_data": 1.0950000286102295, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10872.674, "oht_data": 1.1349999904632568, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10872.738, "oht_data": 1.156999945640564, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10872.805, "oht_data": 1.187999963760376, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10872.874, "oht_data": 1.2039999961853027, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10872.937, "oht_data": 1.2209999561309814, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10873.005, "oht_data": 1.225000023841858, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10873.078, "oht_data": 1.2309999465942383, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10873.138, "oht_data": 1.2339999675750732, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10873.205, "oht_data": 1.2339999675750732, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10873.271, "oht_data": 1.2330000400543213, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10873.338, "oht_data": 1.2300000190734863, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10873.405, "oht_data": 1.2079999446868896, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10873.474, "oht_data": 1.1749999523162842, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10873.538, "oht_data": 1.156999945640564, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10873.605, "oht_data": 1.125, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10873.671, "oht_data": 1.090000033378601, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10873.738, "oht_data": 1.0479999780654907, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10873.805, "oht_data": 1.0149999856948853, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10873.872, "oht_data": 0.9760000109672546, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10873.938, "oht_data": 0.9399999976158142, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10874.004, "oht_data": 0.9100000262260437, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10874.072, "oht_data": 0.8830000162124634, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10874.14, "oht_data": 0.8569999933242798, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10874.205, "oht_data": 0.8460000157356262, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10874.272, "oht_data": 0.8500000238418579, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10874.337, "oht_data": 0.8500000238418579, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10874.405, "oht_data": 0.8429999947547913, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10874.471, "oht_data": 0.8600000143051147, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10874.538, "oht_data": 0.871999979019165, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10874.605, "oht_data": 0.8809999823570251, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10874.671, "oht_data": 0.9010000228881836, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10874.737, "oht_data": 0.9459999799728394, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10874.804, "oht_data": 0.9769999980926514, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10874.873, "oht_data": 1.0010000467300415, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10874.938, "oht_data": 1.027999997138977, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10875.005, "oht_data": 1.0520000457763672, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10875.072, "oht_data": 1.0729999542236328, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10875.139, "oht_data": 1.0740000009536743, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10875.205, "oht_data": 1.0770000219345093, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10875.271, "oht_data": 1.0789999961853027, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10875.338, "oht_data": 1.0779999494552612, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10875.404, "oht_data": 1.0750000476837158, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10875.471, "oht_data": 1.0700000524520874, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10875.538, "oht_data": 1.069000005722046, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10875.606, "oht_data": 1.0570000410079956, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10875.671, "oht_data": 1.055999994277954, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10875.738, "oht_data": 1.0609999895095825, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10875.805, "oht_data": 1.0779999494552612, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10875.871, "oht_data": 1.097000002861023, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10875.938, "oht_data": 1.1230000257492065, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10876.005, "oht_data": 1.1419999599456787, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10876.071, "oht_data": 1.1469999551773071, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10876.137, "oht_data": 1.1640000343322754, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10876.205, "oht_data": 1.1740000247955322, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10876.272, "oht_data": 1.1770000457763672, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10876.337, "oht_data": 1.1759999990463257, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10876.405, "oht_data": 1.1549999713897705, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10876.471, "oht_data": 1.0859999656677246, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10876.538, "oht_data": 0.9750000238418579, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10876.604, "oht_data": 0.8920000195503235, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10876.672, "oht_data": 0.8669999837875366, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10876.738, "oht_data": 0.8320000171661377, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10876.805, "oht_data": 0.8199999928474426, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10876.872, "oht_data": 0.8489999771118164, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10876.938, "oht_data": 0.8930000066757202, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10877.005, "oht_data": 0.9380000233650208, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10877.072, "oht_data": 1.0269999504089355, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10877.138, "oht_data": 1.1050000190734863, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10877.204, "oht_data": 1.152999997138977, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10877.272, "oht_data": 1.156999945640564, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10877.337, "oht_data": 1.1510000228881836, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10877.405, "oht_data": 1.1360000371932983, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10877.471, "oht_data": 1.1330000162124634, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10877.538, "oht_data": 1.1369999647140503, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10877.605, "oht_data": 1.1369999647140503, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10877.671, "oht_data": 1.0770000219345093, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10877.738, "oht_data": 0.9279999732971191, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10877.805, "oht_data": 0.8550000190734863, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10877.871, "oht_data": 0.8169999718666077, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10877.937, "oht_data": 0.7979999780654907, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10878.005, "oht_data": 0.8029999732971191, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10878.071, "oht_data": 0.8579999804496765, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10878.137, "oht_data": 0.8740000128746033, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10878.205, "oht_data": 0.9490000009536743, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10878.275, "oht_data": 1.0520000457763672, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10878.338, "oht_data": 1.121000051498413, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10878.403, "oht_data": 1.1510000228881836, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10878.472, "oht_data": 1.1549999713897705, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10878.538, "oht_data": 1.1579999923706055, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10878.604, "oht_data": 1.1490000486373901, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10878.671, "oht_data": 1.1440000534057617, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10878.738, "oht_data": 1.1169999837875366, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10878.805, "oht_data": 1.0740000009536743, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10878.872, "oht_data": 0.921999990940094, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10878.939, "oht_data": 0.8539999723434448, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10879.005, "oht_data": 0.8370000123977661, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10879.072, "oht_data": 0.8080000281333923, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10879.138, "oht_data": 0.8040000200271606, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10879.206, "oht_data": 0.8669999837875366, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10879.275, "oht_data": 0.8830000162124634, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10879.338, "oht_data": 0.9139999747276306, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10879.404, "oht_data": 1.0, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10879.472, "oht_data": 1.093000054359436, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10879.539, "oht_data": 1.13100004196167, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10879.605, "oht_data": 1.1399999856948853, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10879.674, "oht_data": 1.1299999952316284, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10879.737, "oht_data": 1.1299999952316284, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10879.804, "oht_data": 1.128000020980835, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10879.872, "oht_data": 1.1319999694824219, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10879.938, "oht_data": 1.1440000534057617, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10880.005, "oht_data": 1.1480000019073486, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10880.072, "oht_data": 1.1480000019073486, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10880.138, "oht_data": 1.1410000324249268, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10880.205, "oht_data": 1.1349999904632568, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10880.271, "oht_data": 1.1330000162124634, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10880.338, "oht_data": 1.1319999694824219, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10880.404, "oht_data": 1.1299999952316284, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10880.471, "oht_data": 1.1269999742507935, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10880.538, "oht_data": 1.121999979019165, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10880.604, "oht_data": 1.0549999475479126, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10880.672, "oht_data": 0.9350000023841858, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10880.738, "oht_data": 0.8230000138282776, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10880.805, "oht_data": 0.8100000023841858, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10880.871, "oht_data": 0.8450000286102295, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10880.938, "oht_data": 0.8240000009536743, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10881.004, "oht_data": 0.828000009059906, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10881.073, "oht_data": 0.8560000061988831, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10881.138, "oht_data": 0.8970000147819519, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10881.205, "oht_data": 0.9210000038146973, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10881.273, "oht_data": 1.0089999437332153, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10881.343, "oht_data": 1.0889999866485596, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10881.405, "oht_data": 1.1160000562667847, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10881.472, "oht_data": 1.1119999885559082, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10881.538, "oht_data": 1.1089999675750732, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10881.604, "oht_data": 1.097000002861023, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10881.671, "oht_data": 1.0889999866485596, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10881.738, "oht_data": 1.0920000076293945, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10881.804, "oht_data": 1.1019999980926514, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10881.871, "oht_data": 1.1089999675750732, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10881.939, "oht_data": 1.1030000448226929, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10882.004, "oht_data": 1.1050000190734863, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10882.071, "oht_data": 1.1050000190734863, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10882.14, "oht_data": 1.100000023841858, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10882.204, "oht_data": 1.0989999771118164, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10882.272, "oht_data": 1.0989999771118164, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10882.338, "oht_data": 1.1050000190734863, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10882.405, "oht_data": 1.1059999465942383, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10882.471, "oht_data": 1.1059999465942383, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10882.538, "oht_data": 1.1059999465942383, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10882.605, "oht_data": 1.1059999465942383, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10882.671, "oht_data": 1.1059999465942383, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10882.74, "oht_data": 1.1069999933242798, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10882.805, "oht_data": 1.1100000143051147, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10882.872, "oht_data": 1.1339999437332153, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10882.939, "oht_data": 1.1710000038146973, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10883.005, "oht_data": 1.1979999542236328, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10883.072, "oht_data": 1.2209999561309814, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10883.138, "oht_data": 1.2309999465942383, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10883.205, "oht_data": 1.246000051498413, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10883.272, "oht_data": 1.2519999742507935, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10883.337, "oht_data": 1.2549999952316284, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10883.404, "oht_data": 1.2640000581741333, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10883.471, "oht_data": 1.2730000019073486, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10883.54, "oht_data": 1.2710000276565552, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10883.604, "oht_data": 1.2790000438690186, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10883.671, "oht_data": 1.2410000562667847, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10883.737, "oht_data": 1.1299999952316284, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10883.806, "oht_data": 1.0219999551773071, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10883.873, "oht_data": 0.9990000128746033, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10883.938, "oht_data": 1.0779999494552612, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10884.005, "oht_data": 1.1100000143051147, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10884.071, "oht_data": 1.11899995803833, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10884.139, "oht_data": 1.121999979019165, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10884.211, "oht_data": 1.0499999523162842, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10884.271, "oht_data": 0.9319999814033508, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10884.337, "oht_data": 0.8629999756813049, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10884.405, "oht_data": 0.9440000057220459, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10884.471, "oht_data": 1.0269999504089355, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10884.538, "oht_data": 1.149999976158142, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10884.605, "oht_data": 1.2319999933242798, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10884.671, "oht_data": 1.2419999837875366, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10884.738, "oht_data": 1.2369999885559082, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10884.804, "oht_data": 1.2289999723434448, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10884.872, "oht_data": 1.2350000143051147, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10884.938, "oht_data": 1.2480000257492065, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10885.009, "oht_data": 1.2410000562667847, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10885.072, "oht_data": 1.2350000143051147, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10885.138, "oht_data": 1.246999979019165, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10885.204, "oht_data": 1.2710000276565552, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10885.271, "oht_data": 1.2960000038146973, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10885.338, "oht_data": 1.3279999494552612, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10885.411, "oht_data": 1.3350000381469727, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10885.471, "oht_data": 1.3569999933242798, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10885.538, "oht_data": 1.3619999885559082, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10885.604, "oht_data": 1.3680000305175781, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10885.672, "oht_data": 1.3819999694824219, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10885.738, "oht_data": 1.3919999599456787, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10885.805, "oht_data": 1.406000018119812, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10885.871, "oht_data": 1.402999997138977, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10885.937, "oht_data": 1.3860000371932983, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10886.005, "oht_data": 1.3739999532699585, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10886.071, "oht_data": 1.3559999465942383, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10886.138, "oht_data": 1.350000023841858, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10886.206, "oht_data": 1.3480000495910645, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10886.271, "oht_data": 1.3289999961853027, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10886.337, "oht_data": 1.2899999618530273, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10886.405, "oht_data": 1.2719999551773071, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10886.472, "oht_data": 1.2599999904632568, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10886.538, "oht_data": 1.246000051498413, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10886.605, "oht_data": 1.2300000190734863, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10886.672, "oht_data": 1.2230000495910645, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10886.738, "oht_data": 1.2130000591278076, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10886.804, "oht_data": 1.1890000104904175, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10886.871, "oht_data": 1.1619999408721924, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10886.937, "oht_data": 1.125, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10887.004, "oht_data": 1.097000002861023, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10887.079, "oht_data": 1.0679999589920044, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10887.137, "oht_data": 1.0460000038146973, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10887.205, "oht_data": 1.00600004196167, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10887.272, "oht_data": 0.9829999804496765, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10887.338, "oht_data": 0.9670000076293945, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10887.405, "oht_data": 0.949999988079071, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10887.471, "oht_data": 0.9409999847412109, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10887.538, "oht_data": 0.9449999928474426, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10887.605, "oht_data": 0.9449999928474426, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10887.671, "oht_data": 0.9480000138282776, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10887.738, "oht_data": 0.9509999752044678, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10887.805, "oht_data": 0.9459999799728394, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10887.871, "oht_data": 0.9520000219345093, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10887.938, "oht_data": 0.9639999866485596, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10888.005, "oht_data": 0.9760000109672546, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10888.073, "oht_data": 0.9869999885559082, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10888.137, "oht_data": 0.9919999837875366, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10888.204, "oht_data": 1.0, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10888.272, "oht_data": 1.0140000581741333, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10888.338, "oht_data": 1.0369999408721924, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10888.405, "oht_data": 1.0549999475479126, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10888.472, "oht_data": 1.0670000314712524, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10888.537, "oht_data": 1.0670000314712524, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10888.605, "oht_data": 1.0850000381469727, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10888.672, "oht_data": 1.0989999771118164, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10888.738, "oht_data": 1.1139999628067017, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10888.804, "oht_data": 1.11899995803833, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10888.872, "oht_data": 1.121000051498413, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10888.938, "oht_data": 1.1230000257492065, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10889.006, "oht_data": 1.11899995803833, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10889.075, "oht_data": 1.121000051498413, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10889.138, "oht_data": 1.128000020980835, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10889.204, "oht_data": 1.121000051498413, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10889.272, "oht_data": 1.1100000143051147, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10889.338, "oht_data": 1.1059999465942383, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10889.405, "oht_data": 1.1009999513626099, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10889.472, "oht_data": 1.1009999513626099, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10889.537, "oht_data": 1.0950000286102295, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10889.604, "oht_data": 1.0920000076293945, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10889.671, "oht_data": 1.090000033378601, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10889.736, "oht_data": 1.0859999656677246, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10889.804, "oht_data": 1.0880000591278076, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10889.871, "oht_data": 1.0859999656677246, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10889.937, "oht_data": 1.0820000171661377, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10890.005, "oht_data": 1.0870000123977661, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10890.071, "oht_data": 1.0859999656677246, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10890.137, "oht_data": 1.0770000219345093, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10890.204, "oht_data": 1.0750000476837158, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10890.272, "oht_data": 1.0750000476837158, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10890.339, "oht_data": 1.0809999704360962, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10890.405, "oht_data": 1.0809999704360962, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10890.472, "oht_data": 1.0809999704360962, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10890.538, "oht_data": 1.0709999799728394, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10890.604, "oht_data": 1.0709999799728394, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10890.672, "oht_data": 1.0709999799728394, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10890.738, "oht_data": 1.0709999799728394, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10890.805, "oht_data": 1.0800000429153442, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10890.871, "oht_data": 1.0800000429153442, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10890.937, "oht_data": 1.0750000476837158, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10891.005, "oht_data": 1.0230000019073486, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10891.072, "oht_data": 0.9509999752044678, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10891.138, "oht_data": 0.8629999756813049, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10891.204, "oht_data": 0.8190000057220459, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10891.272, "oht_data": 0.800000011920929, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10891.338, "oht_data": 0.7960000038146973, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10891.405, "oht_data": 0.8050000071525574, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10891.472, "oht_data": 0.8069999814033508, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10891.54, "oht_data": 0.800000011920929, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10891.605, "oht_data": 0.8209999799728394, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10891.671, "oht_data": 0.8299999833106995, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10891.738, "oht_data": 0.8830000162124634, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10891.804, "oht_data": 0.9520000219345093, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10891.872, "oht_data": 1.0140000581741333, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10891.937, "oht_data": 1.0800000429153442, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10892.004, "oht_data": 1.0770000219345093, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10892.071, "oht_data": 1.0429999828338623, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10892.138, "oht_data": 1.027999997138977, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10892.21, "oht_data": 1.0180000066757202, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10892.271, "oht_data": 1.0149999856948853, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10892.338, "oht_data": 1.0260000228881836, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10892.404, "oht_data": 1.0479999780654907, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10892.474, "oht_data": 1.0679999589920044, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10892.537, "oht_data": 1.055999994277954, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10892.607, "oht_data": 1.0460000038146973, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10892.672, "oht_data": 1.0420000553131104, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10892.737, "oht_data": 1.0390000343322754, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10892.808, "oht_data": 1.0390000343322754, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10892.871, "oht_data": 1.0379999876022339, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10892.937, "oht_data": 1.0420000553131104, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10893.005, "oht_data": 1.0390000343322754, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10893.072, "oht_data": 1.0329999923706055, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10893.138, "oht_data": 1.0190000534057617, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10893.204, "oht_data": 1.0119999647140503, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10893.271, "oht_data": 1.0069999694824219, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10893.337, "oht_data": 1.003000020980835, "verdict": "currently_true"}
+{"topic": "/oht", "time": 10893.404, "oht_data": 0.9940000176429749, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10893.472, "oht_data": 0.9829999804496765, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10893.537, "oht_data": 0.9670000076293945, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10893.607, "oht_data": 0.9639999866485596, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10893.672, "oht_data": 0.9589999914169312, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10893.738, "oht_data": 0.9589999914169312, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10893.804, "oht_data": 0.9520000219345093, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10893.871, "oht_data": 0.949999988079071, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10893.938, "oht_data": 0.9449999928474426, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10894.004, "oht_data": 0.9440000057220459, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10894.073, "oht_data": 0.9440000057220459, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10894.137, "oht_data": 0.9490000009536743, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10894.205, "oht_data": 0.9480000138282776, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10894.272, "oht_data": 0.9459999799728394, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10894.338, "oht_data": 0.9430000185966492, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10894.406, "oht_data": 0.9300000071525574, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10894.477, "oht_data": 0.9210000038146973, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10894.537, "oht_data": 0.9160000085830688, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10894.605, "oht_data": 0.9020000100135803, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10894.677, "oht_data": 0.8330000042915344, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10894.739, "oht_data": 0.7390000224113464, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10894.804, "oht_data": 0.6449999809265137, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10894.878, "oht_data": 0.6430000066757202, "verdict": "currently_false", "spec": "{oht_data > 1}"}
+{"topic": "/oht", "time": 10894.938, "oht_data": 0.6639999747276306, "verdict": "currently_false", "spec": "{oht_data > 1}"}
