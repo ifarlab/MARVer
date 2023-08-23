@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="adservice" type="ad_rv.py" name="anomalyDetectionRV" output="screen"/>
+</launch>
